@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoseL\\OneDrive\\Documentos\\SistemasDeStock\\Version 3\\migrando\\Versiones\\20241124\\Ejemplo\\ejemploReporte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA6DF2A-35C9-4B54-A838-E7DB1EE850B0}|ejemploReporte.csproj|c:\\users\\josel\\onedrive\\documentos\\sistemasdestock\\version 3\\migrando\\versiones\\20241124\\ejemplo\\ejemploreporte\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ADA6DF2A-35C9-4B54-A838-E7DB1EE850B0}|ejemploReporte.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA6DF2A-35C9-4B54-A838-E7DB1EE850B0}|ejemploReporte.csproj|c:\\users\\josel\\onedrive\\documentos\\sistemasdestock\\version 3\\migrando\\versiones\\20241124\\ejemplo\\ejemploreporte\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADA6DF2A-35C9-4B54-A838-E7DB1EE850B0}|ejemploReporte.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA6DF2A-35C9-4B54-A838-E7DB1EE850B0}|ejemploReporte.csproj|c:\\users\\josel\\onedrive\\documentos\\sistemasdestock\\version 3\\migrando\\versiones\\20241124\\ejemplo\\ejemploreporte\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA6DF2A-35C9-4B54-A838-E7DB1EE850B0}|ejemploReporte.csproj|solutionrelative:controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA6DF2A-35C9-4B54-A838-E7DB1EE850B0}|ejemploReporte.csproj|c:\\users\\josel\\onedrive\\documentos\\sistemasdestock\\version 3\\migrando\\versiones\\20241124\\ejemplo\\ejemploreporte\\wwwroot\\js\\productos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ADA6DF2A-35C9-4B54-A838-E7DB1EE850B0}|ejemploReporte.csproj|solutionrelative:wwwroot\\js\\productos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 195,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\JoseL\\OneDrive\\Documentos\\SistemasDeStock\\Version 3\\migrando\\Versiones\\20241124\\Ejemplo\\ejemploReporte\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\JoseL\\OneDrive\\Documentos\\SistemasDeStock\\Version 3\\migrando\\Versiones\\20241124\\Ejemplo\\ejemploReporte\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-27T02:15:45.922Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\JoseL\\OneDrive\\Documentos\\SistemasDeStock\\Version 3\\migrando\\Versiones\\20241124\\Ejemplo\\ejemploReporte\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\JoseL\\OneDrive\\Documentos\\SistemasDeStock\\Version 3\\migrando\\Versiones\\20241124\\Ejemplo\\ejemploReporte\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T18:53:40.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:728888768:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:188359960:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "productos.js",
+              "DocumentMoniker": "C:\\Users\\JoseL\\OneDrive\\Documentos\\SistemasDeStock\\Version 3\\migrando\\Versiones\\20241124\\Ejemplo\\ejemploReporte\\wwwroot\\js\\productos.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\productos.js",
+              "ToolTip": "C:\\Users\\JoseL\\OneDrive\\Documentos\\SistemasDeStock\\Version 3\\migrando\\Versiones\\20241124\\Ejemplo\\ejemploReporte\\wwwroot\\js\\productos.js",
+              "RelativeToolTip": "wwwroot\\js\\productos.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-25T17:54:39.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\JoseL\\OneDrive\\Documentos\\SistemasDeStock\\Version 3\\migrando\\Versiones\\20241124\\Ejemplo\\ejemploReporte\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\JoseL\\OneDrive\\Documentos\\SistemasDeStock\\Version 3\\migrando\\Versiones\\20241124\\Ejemplo\\ejemploReporte\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:44:07.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 67,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

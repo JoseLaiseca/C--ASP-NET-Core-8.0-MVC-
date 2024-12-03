@@ -1,0 +1,51 @@
+﻿@model EjemploReporte.Models.Producto
+
+<h1>Editar Producto</h1>
+<form asp-action="Edit" asp-controller="Productos" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" name="IdProducto" value="@Model.IdProducto" />
+
+    <div class="form-group">
+        <label for="TipoProducto">Tipo de Producto</label>
+        <input type="text" id="TipoProducto" name="TipoProducto" value="@Model.TipoProducto" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="MarcaProducto">Marca</label>
+        <input type="text" id="MarcaProducto" name="MarcaProducto" value="@Model.MarcaProducto" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="ModeloProducto">Modelo</label>
+        <input type="text" id="ModeloProducto" name="ModeloProducto" value="@Model.ModeloProducto" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="MedidasProducto">Medidas del producto</label>
+        <input type="number" step="0.01" id="MedidasProducto" name="MedidasProducto" value="@Model.MedidasProducto" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="ColorProducto">Color del producto</label>
+        <input type="text" id="ColorProducto" name="ColorProducto" value="@Model.ColorProducto" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="PrecioCosto">Precio Costo</label>
+        <input type="number" step="0.01" id="PrecioCosto" name="PrecioCosto" value="@Model.PrecioCosto" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="PrecioVenta">Precio de Venta</label>
+        <input type="number" step="0.01" id="PrecioVenta" name="PrecioVenta" value="@Model.PrecioVenta" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="Porcentaje">Porcentaje</label>
+        <input type="number" step="0.01" id="Porcentaje" name="Porcentaje" value="@Model.Porcentaje" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Guardar</button>
+    <a href="/Productos/Index" class="btn btn-secondary">Cancelar</a>
+</form>
+

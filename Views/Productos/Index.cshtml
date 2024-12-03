@@ -1,0 +1,73 @@
+﻿@model IEnumerable<EjemploReporte.Models.Producto>
+
+<script src="/js/productos.js"></script>
+<script src="~/js/site.js"></script>
+
+
+<div id="productos-lista"></div>
+
+<button id="cargarProductosBtn">Cargar productos</button>
+
+
+<a href="/Productos/Create" class="btn btn-primary">Crear Nuevo Producto</a>
+<table id="tabla-productos" class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Tipo</th>
+            <th>Marca</th>
+            <th>Modelo</th>
+            <th>Precio Venta</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var producto in Model)
+        {
+            <tr>
+                <td>@producto.IdProducto</td>
+                <td>@producto.TipoProducto</td>
+                <td>@producto.MarcaProducto</td>
+                <td>@producto.ModeloProducto</td>
+                <td>@producto.PrecioVenta</td>
+                <td>
+                    <a href="/Productos/Edit/@producto.IdProducto" class="btn btn-warning">Editar</a>
+                    <a href="/Productos/Delete/@producto.IdProducto" class="btn btn-danger">Eliminar</a>
+                </td>
+                <td>
+                    <button class="btn btn-info btn-detalles" data-id="@producto.IdProducto"
+                            data-tipo="@producto.TipoProducto" data-marca="@producto.MarcaProducto"
+                            data-modelo="@producto.ModeloProducto" data-medidas="@producto.MedidasProducto"
+                            data-color="@producto.ColorProducto">
+                        ver detalles
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@* <h1>Listado de Productos</h1>
+<a href="/Productos/Create" class="btn btn-primary">Crear Nuevo Producto</a>
+
+<table id="tabla-productos" class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tipo</th>
+            <th>Marca</th>
+            <th>Modelo</th>
+            <th>Medidas</th>
+            <th>Color</th>
+            <th>Precio Costo</th>
+            <th>Precio Venta</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Filas generadas dinámicamente -->
+    </tbody>
+</table>
+<button id="cargar-productos" class="btn btn-primary">Cargar Productos</button> *@
+
+<
